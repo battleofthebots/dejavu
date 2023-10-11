@@ -1,0 +1,4 @@
+bottle == 0.12.19
+pyexiftool == 0.4.5
+waitress == 1.4.4
+requests == 2.12.0
